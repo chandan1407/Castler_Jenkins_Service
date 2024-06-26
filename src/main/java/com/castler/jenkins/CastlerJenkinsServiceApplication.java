@@ -1,3 +1,4 @@
+/*
 package com.castler.jenkins;
 
 import org.springframework.boot.SpringApplication;
@@ -10,7 +11,8 @@ public class CastlerJenkinsServiceApplication {
 
 
 		SpringApplication.run(CastlerJenkinsServiceApplication.class, args);
-		//System.out.println("This is my first maven project with Jenkins !!");
+		System.out.println("This is my first maven project with Jenkins !!");
 	}
 
 }
+*/
